@@ -17,3 +17,10 @@ Neural Gas Network Image Features and Segmentation for Brain Tumor Detection Usi
 ![ngnfeatures](https://github.com/user-attachments/assets/910112cc-434b-4f36-9736-741000dea3c4)
 
 ![image](https://github.com/user-attachments/assets/4900541b-72f0-4bba-b59e-68f296d79bbb)
+
+### Link to the paper:
+- https://arxiv.org/abs/2301.12176
+- https://arxiv.org/pdf/2301.12176
+- DOI: https://doi.org/10.48550/arXiv.2301.12176
+### Please cite:
+- Mousavi, S. "Neural Gas Network Image Features and Segmentation for Brain Tumor Detection Using Magnetic Resonance Imaging Data." arXiv preprint arXiv:2301.12176 (2023).
