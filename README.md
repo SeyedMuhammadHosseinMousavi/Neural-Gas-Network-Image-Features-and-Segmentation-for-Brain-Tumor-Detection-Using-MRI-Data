@@ -16,3 +16,4 @@ Neural Gas Network Image Features and Segmentation for Brain Tumor Detection Usi
 
 ![ngnfeatures](https://github.com/user-attachments/assets/910112cc-434b-4f36-9736-741000dea3c4)
 
+![image](https://github.com/user-attachments/assets/4900541b-72f0-4bba-b59e-68f296d79bbb)
